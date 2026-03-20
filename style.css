@@ -1,0 +1,53 @@
+header h1 {
+    text-align: center;
+    border: 10px solid;
+    color:blueviolet;
+    border-radius: 100px;
+}
+
+header a {
+    text-decoration: none;
+    border: 5px solid;
+    border-radius: 10px;
+    border-color: chocolate;
+    background-color: chocolate;
+    font-size: 50px;
+}
+
+main h1 {
+    text-align: center;
+    border: 10px solid;
+    color: blueviolet;
+    border-radius: 100px;
+}
+
+main a {
+    font-weight: 700;
+    text-decoration: none;
+    color:aliceblue;
+    border: 10px solid;
+    border-color: #FFB300;
+    border-bottom-color: blueviolet;
+    border-radius: 10px;
+}
+
+.Ы {
+    text-align: center;
+}
+
+main img {
+    width: 150px;
+}
+
+main h2 {
+    text-align: center;
+}
+
+body {
+    background-color: #FFB300;
+}
+
+.Цена {
+    border-color: chartreuse;
+    color: chartreuse;
+}
